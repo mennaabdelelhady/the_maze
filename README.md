@@ -16,5 +16,5 @@ The maze surface is drawn on the screen in the main loop, and Pygame is updated 
 
 The desired frame rate is set and the clock is ticked to control the game's speed.
 
-Pygame is quit when the game is exited.<br>.<br>
+Pygame is quit when the game is exited.<br><br>
 you can watch this vedio:https://clipchamp.com/watch/J3v1PF1eovh
