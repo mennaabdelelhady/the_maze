@@ -1,4 +1,4 @@
-# the_maze# MAZE 
+# the_maze
 #BFS
 This code creates a maze using Pygame and implements the Breadth-First Search (BFS) algorithm to find the shortest path from the starting position to the ending position in the maze. Here's a brief overview of how the code works:
 
